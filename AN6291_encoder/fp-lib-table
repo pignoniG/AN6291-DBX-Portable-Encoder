@@ -1,0 +1,6 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "LIB_TPS70960DBVT")(type "KiCad")(uri "/Users/giovannipignoni/Downloads/LIB_TPS70960DBVT/TPS70960DBVT/KiCad")(options "")(descr ""))
+  (lib (name "LIB_JY039-5P__FC68133_")(type "KiCad")(uri "/Users/giovannipignoni/Downloads/LIB_JY039-5P__FC68133_/JY039-5P__FC68133_/KiCad")(options "")(descr ""))
+  (lib (name "SL19-123")(type "KiCad")(uri "/Users/giovannipignoni/Downloads/LIB_SL19-123/SL19-123/KiCad")(options "")(descr ""))
+)
