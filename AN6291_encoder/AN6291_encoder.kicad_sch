@@ -6934,7 +6934,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "57,6K"
+		(property "Value" "56k"
 			(at 208.28 91.44 0)
 			(effects
 				(font
@@ -6970,6 +6970,15 @@
 				(hide yes)
 			)
 		)
+		(property "JLCPCB Part" "C17756"
+			(at 207.01 92.71 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "22fdbeba-8cb1-490f-a525-7db30fa5b111")
 		)
@@ -6990,7 +6999,7 @@
 		(at 342.9 137.16 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
@@ -7038,6 +7047,15 @@
 				(hide yes)
 			)
 		)
+		(property "JLCPCB Part" ""
+			(at 342.9 137.16 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "3"
 			(uuid "01618cfe-8bc7-4e9f-a462-89c298c2cf00")
 		)
@@ -7076,7 +7094,7 @@
 		(at 161.29 66.04 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(uuid "09956fcc-062c-4832-b507-04ff4bbf0ddc")
@@ -7195,6 +7213,15 @@
 				(hide yes)
 			)
 		)
+		(property "JLCPCB Part" "C17408"
+			(at 241.3 133.35 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "2a702627-110d-4c93-86e2-edff01e3fa85")
 		)
@@ -7256,6 +7283,15 @@
 			)
 		)
 		(property "Description" "Resistor, small symbol"
+			(at 36.83 181.61 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part" "C17589"
 			(at 36.83 181.61 0)
 			(effects
 				(font
@@ -7464,6 +7500,15 @@
 				(hide yes)
 			)
 		)
+		(property "JLCPCB Part" "C26010"
+			(at 76.2 41.91 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "524e93cb-5c0b-41a1-a7f3-f55d759542eb")
 		)
@@ -7485,7 +7530,7 @@
 		(mirror x)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(uuid "0e32f20c-f84c-4c61-8d8b-a0c129b9c61a")
@@ -7554,7 +7599,7 @@
 		(at 140.97 34.29 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(uuid "0e9cf289-34f2-4ece-98db-f559959c52f7")
@@ -7567,7 +7612,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "10nf COG"
+		(property "Value" "10nf"
 			(at 140.97 36.83 0)
 			(effects
 				(font
@@ -7687,7 +7732,7 @@
 		(at 229.87 148.59 180)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(uuid "102a1cb3-6b99-4c20-b765-2b2fb823c9fb")
@@ -7820,7 +7865,7 @@
 		(at 27.94 118.11 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
@@ -7939,6 +7984,15 @@
 				(hide yes)
 			)
 		)
+		(property "JLCPCB Part" "C17475"
+			(at 120.65 146.05 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "5c2c1e9b-b02c-4688-8572-7ecaa32baa1d")
 		)
@@ -7959,7 +8013,7 @@
 		(at 367.03 44.45 0)
 		(unit 3)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
@@ -8001,6 +8055,15 @@
 			)
 		)
 		(property "Description" "Dual SoundPlus High Performance, Bipolar-Input Audio Operational Amplifiers, SOIC-8"
+			(at 367.03 44.45 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part" ""
 			(at 367.03 44.45 0)
 			(effects
 				(font
@@ -8126,7 +8189,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "100"
+		(property "Value" "100R"
 			(at 345.44 114.3 90)
 			(effects
 				(font
@@ -8155,6 +8218,15 @@
 		)
 		(property "Description" "Resistor, small symbol"
 			(at 342.9 118.11 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part" "C17408"
+			(at 342.9 118.11 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8224,6 +8296,15 @@
 			)
 		)
 		(property "Description" "Resistor, small symbol"
+			(at 43.18 50.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part" "C17673"
 			(at 43.18 50.8 0)
 			(effects
 				(font
@@ -8319,7 +8400,7 @@
 		(mirror y)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
@@ -8461,7 +8542,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "274R"
+		(property "Value" "270R"
 			(at 220.98 110.49 0)
 			(effects
 				(font
@@ -8489,6 +8570,15 @@
 			)
 		)
 		(property "Description" "Resistor, small symbol"
+			(at 220.98 105.41 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part" "C17590"
 			(at 220.98 105.41 0)
 			(effects
 				(font
@@ -8632,6 +8722,15 @@
 				(hide yes)
 			)
 		)
+		(property "JLCPCB Part" "C17408"
+			(at 153.67 63.5 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "7a1fdfd3-15a9-4d05-83a7-b442a1fc92b7")
 		)
@@ -8718,7 +8817,7 @@
 		(at 299.72 87.63 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(uuid "28db51b2-b10f-4426-aec0-1c986d793a09")
@@ -8767,6 +8866,15 @@
 				(hide yes)
 			)
 		)
+		(property "JLCPCB Part" "C17513"
+			(at 299.72 87.63 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "db2c1399-e1bf-4f95-b58c-a405b5879ade")
 		)
@@ -8800,7 +8908,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "100"
+		(property "Value" "100R"
 			(at 323.85 27.94 0)
 			(effects
 				(font
@@ -8836,6 +8944,15 @@
 				(hide yes)
 			)
 		)
+		(property "JLCPCB Part" "C17408"
+			(at 322.58 29.21 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "d9871540-4af6-4059-acfd-ce7b0e84bda0")
 		)
@@ -8856,7 +8973,7 @@
 		(at 217.17 153.67 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
@@ -8982,6 +9099,24 @@
 				(hide yes)
 			)
 		)
+		(property "JLCPCB Part " "C17772"
+			(at 59.69 50.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part" "C17772"
+			(at 59.69 50.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "e8676c12-6ec5-49b8-bfe7-50b762b82308")
 		)
@@ -9081,7 +9216,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "4.1k"
+		(property "Value" "4.7k"
 			(at 308.61 83.82 0)
 			(effects
 				(font
@@ -9109,6 +9244,15 @@
 			)
 		)
 		(property "Description" "Resistor, small symbol"
+			(at 307.34 85.09 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part" "C17673"
 			(at 307.34 85.09 0)
 			(effects
 				(font
@@ -9217,7 +9361,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "100"
+		(property "Value" "100R"
 			(at 323.85 74.93 0)
 			(effects
 				(font
@@ -9245,6 +9389,15 @@
 			)
 		)
 		(property "Description" "Resistor, small symbol"
+			(at 322.58 76.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part" "C17408"
 			(at 322.58 76.2 0)
 			(effects
 				(font
@@ -9315,6 +9468,15 @@
 			)
 		)
 		(property "Description" "Resistor, small symbol"
+			(at 241.3 109.22 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part" "C17408"
 			(at 241.3 109.22 0)
 			(effects
 				(font
@@ -9460,6 +9622,15 @@
 				(hide yes)
 			)
 		)
+		(property "JLCPCB Part" "C17475"
+			(at 120.65 83.82 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "35fd2711-47a6-447e-94ec-37981c4f75e0")
 		)
@@ -9546,7 +9717,7 @@
 		(at 121.92 198.12 270)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(uuid "34b7144a-f214-48eb-a700-024eb2911c36")
@@ -9615,7 +9786,7 @@
 		(at 148.59 57.15 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(uuid "34eb1e76-75f9-4fc0-932e-88a88fb2389c")
@@ -9733,6 +9904,15 @@
 				(hide yes)
 			)
 		)
+		(property "JLCPCB Part" "C17633"
+			(at 50.8 179.07 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "38203a3f-59bd-4a44-bf5d-15383e3f638a")
 		)
@@ -9795,6 +9975,15 @@
 			)
 		)
 		(property "Description" "Resistor, small symbol"
+			(at 85.09 57.15 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part" "C17414"
 			(at 85.09 57.15 0)
 			(effects
 				(font
@@ -9872,6 +10061,15 @@
 				(hide yes)
 			)
 		)
+		(property "JLCPCB Part" "C17475"
+			(at 96.52 152.4 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "0fb72bf2-c4a7-4406-bfb3-0bf28a06cc74")
 		)
@@ -9941,6 +10139,15 @@
 				(hide yes)
 			)
 		)
+		(property "JLCPCB Part" "C17560"
+			(at 203.2 105.41 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "66df7241-2beb-4dde-b7d9-da44c978d989")
 		)
@@ -9961,7 +10168,7 @@
 		(at 317.5 29.21 90)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(uuid "39285702-4101-4108-a3c8-e77bef09c46f")
@@ -10030,7 +10237,7 @@
 		(at 46.99 181.61 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(uuid "39c077b2-665f-494a-83e5-894f8a7e4a8d")
@@ -10232,7 +10439,7 @@
 		(mirror y)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(uuid "3c4d5750-ea77-424c-a5b1-04b21ba0b435")
@@ -10245,7 +10452,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "0.1uf"
+		(property "Value" "100nf"
 			(at 105.41 67.31 90)
 			(effects
 				(font
@@ -10380,7 +10587,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "274R"
+		(property "Value" "270R"
 			(at 212.09 72.39 0)
 			(effects
 				(font
@@ -10416,6 +10623,15 @@
 				(hide yes)
 			)
 		)
+		(property "JLCPCB Part" "C17590"
+			(at 210.82 71.12 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "0ae670f8-a841-4066-b28e-ab616463f438")
 		)
@@ -10436,7 +10652,7 @@
 		(at 139.7 200.66 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(uuid "42a5ffd9-de65-49d2-b351-091a03ba15f4")
@@ -10449,7 +10665,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "10nf COG"
+		(property "Value" "10nf"
 			(at 139.7 203.2 0)
 			(effects
 				(font
@@ -10505,7 +10721,7 @@
 		(at 209.55 161.29 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(uuid "4529a0e4-c465-4ab1-885f-21c1349e79b9")
@@ -10574,7 +10790,7 @@
 		(at 393.7 43.18 180)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(uuid "453b1f14-1643-4975-b79a-0e26e031bf2f")
@@ -10643,7 +10859,7 @@
 		(at 63.5 181.61 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(uuid "45ce3c40-c900-4ddb-b188-b821fc9bccd5")
@@ -10713,7 +10929,7 @@
 		(mirror x)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(uuid "45e156e0-7859-409c-b256-8c24f30d164f")
@@ -10726,7 +10942,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "100n"
+		(property "Value" "100nf"
 			(at 33.02 50.8 0)
 			(effects
 				(font
@@ -10831,6 +11047,15 @@
 				(hide yes)
 			)
 		)
+		(property "JLCPCB Part" "C17604"
+			(at 220.98 71.12 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "ed37cb32-cefd-46ea-bb17-c3dc35ef4697")
 		)
@@ -10892,6 +11117,15 @@
 			)
 		)
 		(property "Description" "Resistor, small symbol"
+			(at 330.2 113.03 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part" "C17539"
 			(at 330.2 113.03 0)
 			(effects
 				(font
@@ -11165,6 +11399,15 @@
 				(hide yes)
 			)
 		)
+		(property "JLCPCB Part" "C149504"
+			(at 372.11 36.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "5b690a2d-8b32-4ee0-8cb1-988ef38d8f25")
 		)
@@ -11186,7 +11429,7 @@
 		(mirror x)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(uuid "52770cdb-ae14-4982-b460-800088eeeecb")
@@ -11255,7 +11498,7 @@
 		(at 35.56 198.12 90)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(uuid "534fc64b-3223-4874-846b-8f9ebaedf1f8")
@@ -11268,7 +11511,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "100n"
+		(property "Value" "100nf"
 			(at 38.1 198.12 0)
 			(effects
 				(font
@@ -11391,7 +11634,7 @@
 		(mirror x)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(uuid "5805e930-3e86-44a5-b579-d4c0793df43f")
@@ -11460,7 +11703,7 @@
 		(at 218.44 97.79 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
@@ -11536,7 +11779,7 @@
 		(at 95.25 95.25 180)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(uuid "59d63d37-3521-4eb0-acc6-5ce48b12daee")
@@ -11605,7 +11848,7 @@
 		(at 342.9 107.95 0)
 		(unit 2)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
@@ -11653,6 +11896,15 @@
 				(hide yes)
 			)
 		)
+		(property "JLCPCB Part" ""
+			(at 342.9 107.95 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "3"
 			(uuid "01618cfe-8bc7-4e9f-a462-89c298c2cf01")
 		)
@@ -11691,7 +11943,7 @@
 		(at 87.63 181.61 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(uuid "5d232831-e9d8-4c61-bb18-d6dc6537e8bf")
@@ -11760,7 +12012,7 @@
 		(at 125.73 134.62 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(uuid "5d5458a0-eae7-49e8-b30d-8b7d74821111")
@@ -11878,6 +12130,15 @@
 				(hide yes)
 			)
 		)
+		(property "JLCPCB Part" "C17414"
+			(at 85.09 172.72 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "d9f8d3d2-9fc2-4169-844c-4c78effb000b")
 		)
@@ -11966,7 +12227,7 @@
 		(mirror x)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(uuid "5f95bf3a-198e-4768-8613-19cb42302c9b")
@@ -12035,7 +12296,7 @@
 		(at 96.52 157.48 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(uuid "60f0d311-c24c-4600-a21f-50c800af85e3")
@@ -12152,6 +12413,15 @@
 				(hide yes)
 			)
 		)
+		(property "JLCPCB Part" "C28636"
+			(at 133.35 198.12 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "fcd19231-e0e7-412d-ab6b-116f46bf2f0c")
 		)
@@ -12172,7 +12442,7 @@
 		(at 106.68 144.78 90)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(uuid "6194aa1a-6a6f-40fa-98aa-aa3bbb3f789a")
@@ -12241,7 +12511,7 @@
 		(at 245.11 36.83 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
@@ -12370,7 +12640,7 @@
 		(at 22.86 97.79 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
@@ -12451,7 +12721,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "274R"
+		(property "Value" "270R"
 			(at 222.25 166.37 0)
 			(effects
 				(font
@@ -12479,6 +12749,15 @@
 			)
 		)
 		(property "Description" "Resistor, small symbol"
+			(at 219.71 161.29 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part" "C17590"
 			(at 219.71 161.29 0)
 			(effects
 				(font
@@ -12574,7 +12853,7 @@
 		(at 110.49 161.29 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(uuid "67499e1c-7b15-4071-bb5d-04dc5e236f99")
@@ -12643,7 +12922,7 @@
 		(at 210.82 105.41 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(uuid "6d9f916b-b04b-4a0a-aaee-89f320ea6fe6")
@@ -12761,6 +13040,15 @@
 				(hide yes)
 			)
 		)
+		(property "JLCPCB Part" "C149504"
+			(at 381 44.45 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "9c4305c3-564e-4e08-969a-cac853872b78")
 		)
@@ -12781,7 +13069,7 @@
 		(at 102.87 166.37 180)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(uuid "6ea6b8c0-29ad-46b3-8aa2-7ba08b7d0df0")
@@ -12794,7 +13082,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "0.1uf"
+		(property "Value" "100nf"
 			(at 105.41 162.56 90)
 			(effects
 				(font
@@ -12899,6 +13187,15 @@
 				(hide yes)
 			)
 		)
+		(property "JLCPCB Part" "C17633"
+			(at 41.91 191.77 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "9dc89342-084d-45ae-af3e-10730b96e0b3")
 		)
@@ -12919,7 +13216,7 @@
 		(at 359.41 78.74 180)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(uuid "6effb7f4-a93b-4c05-9639-83907275ebe9")
@@ -12989,7 +13286,7 @@
 		(mirror x)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(uuid "725fd248-f4ba-40c1-8d35-7e14a5c61aac")
@@ -13060,7 +13357,7 @@
 		(mirror x)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
@@ -13210,6 +13507,15 @@
 				(hide yes)
 			)
 		)
+		(property "JLCPCB Part" "C17470"
+			(at 36.83 58.42 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "e6b828e1-3e20-4fdc-a4ac-ec7c0445fa03")
 		)
@@ -13243,7 +13549,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "57,6K"
+		(property "Value" "56k"
 			(at 207.01 147.32 0)
 			(effects
 				(font
@@ -13271,6 +13577,15 @@
 			)
 		)
 		(property "Description" "Resistor, small symbol"
+			(at 205.74 148.59 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part" "C17756"
 			(at 205.74 148.59 0)
 			(effects
 				(font
@@ -13365,7 +13680,7 @@
 		(at 393.7 77.47 180)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(uuid "7817f9af-9ff2-4e50-9509-d884751bfd13")
@@ -13549,6 +13864,15 @@
 				(hide yes)
 			)
 		)
+		(property "JLCPCB Part" "C17772"
+			(at 59.69 179.07 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "9c3bd59d-ff68-46da-9be7-5aa87ef12c64")
 		)
@@ -13582,7 +13906,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "100"
+		(property "Value" "100R"
 			(at 344.17 148.59 90)
 			(effects
 				(font
@@ -13611,6 +13935,15 @@
 		)
 		(property "Description" "Resistor, small symbol"
 			(at 342.9 146.05 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part" "C17408"
+			(at 342.9 146.05 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13687,6 +14020,15 @@
 				(hide yes)
 			)
 		)
+		(property "JLCPCB Part" "C17630"
+			(at 110.49 156.21 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "13c220e3-b732-4a9a-b870-9263b5cb6ae1")
 		)
@@ -13755,6 +14097,15 @@
 				(hide yes)
 			)
 		)
+		(property "JLCPCB Part" "C17513"
+			(at 133.35 90.17 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "50f43b2c-2942-4bd6-afaa-8900afcd99f5")
 		)
@@ -13816,6 +14167,15 @@
 			)
 		)
 		(property "Description" "Resistor, small symbol"
+			(at 372.11 71.12 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part" "C149504"
 			(at 372.11 71.12 0)
 			(effects
 				(font
@@ -13893,6 +14253,15 @@
 				(hide yes)
 			)
 		)
+		(property "JLCPCB Part" "C17737"
+			(at 102.87 152.4 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "8ae65bb7-f668-403a-90b4-5173413d42ee")
 		)
@@ -13962,6 +14331,15 @@
 				(hide yes)
 			)
 		)
+		(property "JLCPCB Part" "C17539"
+			(at 330.2 129.54 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "343705cc-ab41-43ec-9c94-ebd917ec8e55")
 		)
@@ -13995,7 +14373,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "4.1k"
+		(property "Value" "4.7k"
 			(at 308.61 38.1 0)
 			(effects
 				(font
@@ -14023,6 +14401,15 @@
 			)
 		)
 		(property "Description" "Resistor, small symbol"
+			(at 307.34 39.37 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part" "C17673"
 			(at 307.34 39.37 0)
 			(effects
 				(font
@@ -14092,6 +14479,15 @@
 			)
 		)
 		(property "Description" "Resistor, small symbol"
+			(at 43.18 179.07 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part" "C17673"
 			(at 43.18 179.07 0)
 			(effects
 				(font
@@ -14234,6 +14630,15 @@
 				(hide yes)
 			)
 		)
+		(property "JLCPCB Part" "C28636"
+			(at 134.62 31.75 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "e49e1e21-4efa-4896-b2e2-d3a9950ad041")
 		)
@@ -14321,7 +14726,7 @@
 		(mirror x)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(uuid "8ab26e7a-feb5-4d8b-bc89-911e91c27aa7")
@@ -14390,7 +14795,7 @@
 		(at 299.72 41.91 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(uuid "8ae4ec56-7cb4-4d1a-8435-5e7eac55ce4a")
@@ -14431,6 +14836,15 @@
 			)
 		)
 		(property "Description" "Resistor, small symbol"
+			(at 299.72 41.91 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part" "C17513"
 			(at 299.72 41.91 0)
 			(effects
 				(font
@@ -14509,6 +14923,15 @@
 				(hide yes)
 			)
 		)
+		(property "JLCPCB Part" "C17513"
+			(at 91.44 58.42 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "819cf726-ee6a-44fa-ae56-a307321d99f4")
 		)
@@ -14529,7 +14952,7 @@
 		(at 120.65 151.13 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(uuid "8d8f0205-6344-445a-89bf-dc43da9635f2")
@@ -14598,7 +15021,7 @@
 		(at 95.25 111.76 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
@@ -14778,6 +15201,15 @@
 				(hide yes)
 			)
 		)
+		(property "JLCPCB Part" "C17589"
+			(at 36.83 48.26 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "f9f5e5c9-40c2-4e0d-b064-d964b42e2bb9")
 		)
@@ -14848,6 +15280,15 @@
 				(hide yes)
 			)
 		)
+		(property "JLCPCB Part" "C17737"
+			(at 102.87 77.47 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "67b04277-527d-42f7-86c2-7f5e0270bea6")
 		)
@@ -14869,7 +15310,7 @@
 		(mirror x)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(uuid "94091724-f45a-4898-af4c-486c0c06a0cd")
@@ -14882,7 +15323,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "100n"
+		(property "Value" "100nf"
 			(at 38.1 31.75 0)
 			(effects
 				(font
@@ -14988,6 +15429,15 @@
 				(hide yes)
 			)
 		)
+		(property "JLCPCB Part" "C17630"
+			(at 110.49 73.66 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "3cc9effc-19e4-45c7-b46a-afdafcfe60be")
 		)
@@ -15049,6 +15499,15 @@
 			)
 		)
 		(property "Description" "Resistor, small symbol"
+			(at 201.93 161.29 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part" "C17560"
 			(at 201.93 161.29 0)
 			(effects
 				(font
@@ -15259,6 +15718,15 @@
 				(hide yes)
 			)
 		)
+		(property "JLCPCB Part" "C17633"
+			(at 50.8 50.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "7b473de1-004b-45aa-b722-afb04ce65059")
 		)
@@ -15280,7 +15748,7 @@
 		(at 73.66 179.07 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(uuid "98f16d46-6a25-47d0-bdac-99732505cb5a")
@@ -15379,7 +15847,7 @@
 		(at 316.23 105.41 90)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(uuid "9ad4b198-8cd9-476e-9320-31ea1c7a8279")
@@ -15497,6 +15965,15 @@
 				(hide yes)
 			)
 		)
+		(property "JLCPCB Part" "C17539"
+			(at 292.1 68.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "9aed764c-dc9d-4240-9bc6-d63c56ab55ec")
 		)
@@ -15584,7 +16061,7 @@
 		(at 317.5 134.62 90)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(uuid "9beab67a-465e-4dfc-98c6-f948b17d77cd")
@@ -15719,7 +16196,7 @@
 		(at 299.72 92.71 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(uuid "a01e109d-fd81-4d80-bbde-777cc1ef7a73")
@@ -15788,7 +16265,7 @@
 		(at 80.01 138.43 180)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(uuid "a45d9750-d46f-4d38-9347-61c5c54ac8a3")
@@ -15860,7 +16337,7 @@
 		(at 123.19 31.75 270)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(uuid "a80bb649-7493-4913-8e75-16d99fb9a3dd")
@@ -15970,6 +16447,15 @@
 			)
 		)
 		(property "Description" "Resistor, small symbol"
+			(at 36.83 171.45 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part" "C17470"
 			(at 36.83 171.45 0)
 			(effects
 				(font
@@ -16180,6 +16666,15 @@
 				(hide yes)
 			)
 		)
+		(property "JLCPCB Part" "C17633"
+			(at 41.91 38.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "1b45ab73-8e86-4e82-b627-ab56c59a8661")
 		)
@@ -16200,7 +16695,7 @@
 		(at 341.63 40.64 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
@@ -16325,6 +16820,15 @@
 				(hide yes)
 			)
 		)
+		(property "JLCPCB Part" "C149504"
+			(at 381 78.74 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "cd64ceb8-f40b-4c98-9413-d49ddcb1e4ba")
 		)
@@ -16411,7 +16915,7 @@
 		(at 215.9 78.74 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
@@ -16670,6 +17174,15 @@
 				(hide yes)
 			)
 		)
+		(property "JLCPCB Part" "C17539"
+			(at 292.1 34.29 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "4f30b3ec-7271-4538-9038-142212847848")
 		)
@@ -16691,7 +17204,7 @@
 		(mirror x)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(uuid "b84a3163-d610-4fdc-ac93-70ef32e0937a")
@@ -16740,6 +17253,15 @@
 				(hide yes)
 			)
 		)
+		(property "JLCPCB Part" "C17737"
+			(at 113.03 85.09 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "c683585c-7d3d-4793-92d9-aab9ab4f486e")
 		)
@@ -16760,7 +17282,7 @@
 		(at 129.54 87.63 180)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(uuid "bad3b2da-d2fe-4991-af5e-be3307905494")
@@ -16829,7 +17351,7 @@
 		(at 214.63 134.62 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
@@ -17039,7 +17561,7 @@
 		(at 367.03 78.74 0)
 		(unit 3)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
@@ -17089,6 +17611,15 @@
 				(hide yes)
 			)
 		)
+		(property "JLCPCB Part" ""
+			(at 367.03 78.74 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "3"
 			(uuid "01618cfe-8bc7-4e9f-a462-89c298c2cf02")
 		)
@@ -17127,7 +17658,7 @@
 		(at 231.14 92.71 180)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(uuid "be0f67df-d443-403f-ac99-1953eda455fd")
@@ -17243,6 +17774,15 @@
 				(hide yes)
 			)
 		)
+		(property "JLCPCB Part" "C17513"
+			(at 91.44 171.45 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "891599a3-4e36-49d4-b110-9d7f4278299e")
 		)
@@ -17263,7 +17803,7 @@
 		(at 171.45 66.04 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(uuid "c337a681-70c8-444b-a604-ab9aa7ad3610")
@@ -17332,7 +17872,7 @@
 		(at 30.48 97.79 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
@@ -17403,7 +17943,7 @@
 		(mirror x)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(uuid "ca9a54c9-98e6-43bb-9bdc-88fef81da77a")
@@ -17538,7 +18078,7 @@
 		(at 95.25 134.62 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(uuid "cc085446-846d-4faa-9ffb-9c6567d3175b")
@@ -17722,6 +18262,15 @@
 				(hide yes)
 			)
 		)
+		(property "JLCPCB Part" "C26010"
+			(at 76.2 187.96 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "1aa7f4f7-8363-4e97-a142-eef34bc6dd91")
 		)
@@ -17743,7 +18292,7 @@
 		(mirror x)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(uuid "d03baea6-5171-4aa9-bf84-748b03bf7588")
@@ -17825,7 +18374,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "274R"
+		(property "Value" "270R"
 			(at 210.82 128.27 0)
 			(effects
 				(font
@@ -17861,6 +18410,15 @@
 				(hide yes)
 			)
 		)
+		(property "JLCPCB Part" "C17590"
+			(at 209.55 127 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "279a8dbb-50cb-4013-97c1-8b16a0a9a431")
 		)
@@ -17881,7 +18439,7 @@
 		(at 54.61 181.61 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(uuid "d148a828-47e5-4b80-bb76-ea7239d3ead2")
@@ -18016,7 +18574,7 @@
 		(at 60.96 97.79 180)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
@@ -18146,7 +18704,7 @@
 		(at 113.03 144.78 270)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(uuid "d57f7619-6482-4b5c-a050-a18204158c1f")
@@ -18187,6 +18745,15 @@
 			)
 		)
 		(property "Description" "Resistor, small symbol"
+			(at 113.03 144.78 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part" "C17737"
 			(at 113.03 144.78 0)
 			(effects
 				(font
@@ -18282,7 +18849,7 @@
 		(at 307.34 29.21 0)
 		(unit 2)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
@@ -18322,6 +18889,15 @@
 			)
 		)
 		(property "Description" "Dual SoundPlus High Performance, Bipolar-Input Audio Operational Amplifiers, SOIC-8"
+			(at 307.34 29.21 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part" ""
 			(at 307.34 29.21 0)
 			(effects
 				(font
@@ -18435,7 +19011,7 @@
 		(at 307.34 76.2 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
@@ -18475,6 +19051,15 @@
 			)
 		)
 		(property "Description" "Dual SoundPlus High Performance, Bipolar-Input Audio Operational Amplifiers, SOIC-8"
+			(at 307.34 76.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part" ""
 			(at 307.34 76.2 0)
 			(effects
 				(font
@@ -18638,6 +19223,15 @@
 				(hide yes)
 			)
 		)
+		(property "JLCPCB Part" "C17475"
+			(at 96.52 77.47 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "69b3478e-3d2a-4425-8e22-0689ae2b4831")
 		)
@@ -18658,7 +19252,7 @@
 		(at 317.5 76.2 90)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(uuid "e4a312a8-48ca-4eb4-84da-0e0045238266")
@@ -19105,6 +19699,15 @@
 				(hide yes)
 			)
 		)
+		(property "JLCPCB Part" "C17604"
+			(at 219.71 127 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "92eee08b-f107-421e-b9ee-99125377aee4")
 		)
@@ -19125,7 +19728,7 @@
 		(at 91.44 176.53 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(uuid "f1c2c218-6035-4bd0-89ac-dae1b0d7a486")
@@ -19194,7 +19797,7 @@
 		(at 359.41 44.45 180)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(uuid "f3bcd6a9-6daa-4520-9ec0-c4846c18de5c")
@@ -19264,7 +19867,7 @@
 		(mirror x)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(uuid "f5d7c135-bc7d-4163-8f73-9334439c8d71")
@@ -19333,7 +19936,7 @@
 		(at 30.48 179.07 90)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(uuid "f5e1fab1-7b07-4b1d-81eb-ee7718e93a9c")
@@ -19346,7 +19949,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "100n"
+		(property "Value" "100nf"
 			(at 33.02 179.07 0)
 			(effects
 				(font
@@ -19402,7 +20005,7 @@
 		(at 299.72 46.99 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(uuid "f7f5d0a3-1f45-4397-a7bc-141008a2ea23")

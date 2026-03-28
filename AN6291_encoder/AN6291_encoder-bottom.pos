@@ -1,0 +1,20 @@
+### Footprint positions - created on 2026-03-24T11:00:10+0100 ###
+### Printed by KiCad version 9.0.7
+## Unit = mm, Angle = deg.
+## Side : bottom
+# Ref     Val         Package                                    PosX       PosY       Rot  Side
+C1        10uf        C_1206_3216Metric                      128.6200   -89.6400  180.0000  bottom
+C24       22uf        C_1206_3216Metric                      135.3800   -89.7400    0.0000  bottom
+C30       22uf        C_1206_3216Metric                      135.5900   -85.6500    0.0000  bottom
+C41       10uf        C_0805_2012Metric                      153.3700   -87.7600    0.0000  bottom
+C43       10uf        C_1206_3216Metric                      158.5600   -89.7600   90.0000  bottom
+C44       10uf        C_1206_3216Metric                      158.5600   -84.4300  -90.0000  bottom
+C46       100nf       C_1206_3216Metric                      133.8200  -105.4800   90.0000  bottom
+C47       100nf       C_1206_3216Metric                      144.0100  -105.4550   90.0000  bottom
+R24       51k         R_0805_2012Metric                      139.6000   -89.9500  180.0000  bottom
+R31       51k         R_0805_2012Metric                      139.7200   -85.4612  180.0000  bottom
+R64       1k          R_0805_2012Metric                      155.1075   -93.2900    0.0000  bottom
+R65       1k          R_0805_2012Metric                      154.4000   -83.0700    0.0000  bottom
+RV1       2k          Potentiometer_Vishay_TS53YL_Vertical   117.2000   -88.3000    0.0000  bottom
+U4        OPA1612AxD  SOIC-8_3.9x4.9mm_P1.27mm               139.0000  -104.6000  180.0000  bottom
+## End
